@@ -42,9 +42,9 @@ Inglês Intermediário | Cultura Inglesa
 
 :computer: **Habilidades e Competências**
 
-Entusiasmado e com muita vontade de aprender, tenho facilidade para lidar com pessoas e ouvir o que os meus colegas têm para dizer ao mesmo tempo que gosto de observar e aprender com os meus superiores.
+Entusiasmado e com muita vontade de aprender, tenho facilidade para lidar com pessoas e ouvir o que os meus colegas têm para dizer, ao mesmo tempo, gosto de observar e aprender com os meus superiores.
 
-Sou autodidata, busco sempre me atualizar e estar por dentro das novidades técnicas das linguagens que aprendo, trabalhando com as melhores práticas, sempre tentando inovar de acordo com a necessidades dos projetos que me são apresentados.
+Sou autodidata, busco sempre me atualizar e estar por dentro das novidades técnicas das linguagens que aprendo, trabalhando com as melhores práticas, sempre tentando inovar de acordo com as necessidades dos projetos que me são apresentados.
 
 Acessem meu GitHub para conhecer mais sobre alguns de meus trabalhos: [https://github.com/brunorosselli](https://github.com/brunorosselli)
 

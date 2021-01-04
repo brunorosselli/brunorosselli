@@ -16,7 +16,7 @@
 :e-mail: E-mail: [bruno.rosselli@hotmail.com](mailto:bruno.rosselli@hotmail.com)
 
 
-:dart: **Objetivo**
+:dart: **Objetivos**
 
 Trabalhar com Desenvolvimento e Programação com foco em Front-End em uma função Júnior ou que me proporcione meios para adquirir experiência profissional.
 
@@ -48,7 +48,7 @@ Sou autodidata, busco sempre me atualizar e estar por dentro das novidades técn
 
 Acessem meu GitHub para conhecer mais sobre alguns de meus trabalhos: [https://github.com/brunorosselli](https://github.com/brunorosselli)
 
-:blue_book: **Experiência**
+:blue_book: **Experiências**
 
 Instrutor de Informática | Educação Adventista | 03/03/2015 até 01/02/2020
 

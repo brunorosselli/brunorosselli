@@ -22,17 +22,17 @@ Trabalhar com Desenvolvimento e Programação com foco em Front-End em uma funç
 
 :mortar_board: **Educação**
 
-Treinamento de Angular para Construção de Web Apps | 04/12/2020 | Caelum
+Treinamento de **Angular** para Construção de Web Apps | 04/12/2020 | Caelum
 
-Treinamento de React e Redux para Construção de Web Apps | 30/04/2020 | Caelum
+Treinamento de **React e Redux** para Construção de Web Apps | 30/04/2020 | Caelum
 
-Treinamento de Javascript Moderno e os Fundamentos Para Construção De Web Apps | 12/03/2020 | Caelum
+Treinamento de **Javascript** Moderno e os Fundamentos Para Construção De Web Apps | 12/03/2020 | Caelum
 
-Treinamento de Desenvolvimento Web com HTML, CSS E Javascript | 20/01/2020 | Caelum
+Treinamento de Desenvolvimento Web com **HTML, CSS E Javascript** | 20/01/2020 | Caelum
 
-Treinamento de Lógica de Programação com Javascript | 16/11/2019 | Caelum
+Treinamento de **Lógica de Programação** com Javascript | 16/11/2019 | Caelum
 
-Ensino Superior de Tecnologia Em Análise e Desenvolvimento de Sistemas | 30/06/2020 | Universidade Ítalo Brasileiro
+**Ensino Superior** de Tecnologia Em Análise e Desenvolvimento de Sistemas | 30/06/2020 | Universidade Ítalo Brasileiro
 
 Técnico em Informática | 20/08/2013 | Senac
 

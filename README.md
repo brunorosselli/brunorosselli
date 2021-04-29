@@ -52,6 +52,5 @@ Acessem meu GitHub para conhecer mais sobre alguns de meus trabalhos: [https://g
 
 Instrutor de Informática | Educação Adventista | 03/03/2015 até 01/02/2020
 
-Suporte Técnico para os usuários de rede, Atualização dos Termos de Uso da Empresa, Atendimento de Abertura e Fechamento de Chamados via GLPI, Administração do Site da Unidade com WordPress.
-
+Suporte Técnico para os usuários de rede, Atualização dos Termos de Uso da Empresa, Atendimento de Abertura e Fechamento de Chamados via GLPI, Administração do Site da Unidade.
 
